@@ -59,3 +59,4 @@ The objective of this project is to analyze Blinkit's sales performance across v
 - KPIs Section for quick performance overview.
 
 ## 📷 Dashboard Preview
+<img width="1225" height="601" alt="Dashboard" src="https://github.com/user-attachments/assets/9f5a57dc-15b9-4e56-8805-1f4f714dc6f3" />
